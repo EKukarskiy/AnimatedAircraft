@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="https://ibb.co/VCGkGHR" width="726">
+      <img src="https://i.ibb.co/R6KJKhf/Animated-Aircraft-Logo.png" width="726">
 </p>
 
 ## About
