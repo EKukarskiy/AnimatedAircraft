@@ -4,7 +4,7 @@
 
 ## About
 
-Aircraft with Amination build with SwiftUI
+Aircraft Amination build with SwiftUI
 
 ## Documentation
 
